@@ -18,11 +18,10 @@ This bot can download video or audio from youtube and more video sites quickly (
 
 ------
 
-### Credits:
+### Developers:
 
 - [SOCIAL MECHANIC](https://github.com/SOCIAL-MECHANIC-TEAM-NRD) - Author of base plugin
 - [MR TAMIZHAN](https://t.me/eye_black_lover) - Div
 
-### Developers:
 
-- [@SOCIAL MECHANIC](https://t.m/social_mechanic_1997)
+
