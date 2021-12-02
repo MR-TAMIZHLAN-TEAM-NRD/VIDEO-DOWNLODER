@@ -1,7 +1,7 @@
 {
-    "name": "AnyDL Bot",
+    "name": "Video Downloader Bot",
     "description": "A bot that can download video or audio from video websites.",
-    "logo": "https://telegra.ph/file/5aee6774b3c4ab6f0b5ed.jpg",
+    "logo": "https://telegra.ph/file/6caec29bf58337953a4b4.png",
     "keywords": [
         "AnyDL",
         "Video Downloader",
@@ -9,10 +9,10 @@
         "JE Bots"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/AnyDL-Bot",
-    "success_url": "https://t.me/Infinity_BOTs",
+    "repository": "https://github.com/SOCIAL-MECHANIC-TEAM-NRD/VIDEO-DOWNLODER",
+    "success_url": "https://t.me/technology_corner_1",
     "env": {
-        "TG_BOT_TOKEN": {
+        "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
             "value": ""
         },
@@ -34,7 +34,7 @@
         },
         "UPDATES_CHANNEL": {
             "description": "Your channel username without @ to force users to join your channel before use the bot (You must add the bot to your channel as admin)",
-            "value": ""
+            "value": "technology_corner_1"
         }
     },
     "addons": [],
